@@ -15,7 +15,6 @@ This app allows users to add, delete, and manage their daily tasks efficiently.
 ## 📌 Features
 
 - ➕ Add new tasks
-- ✅ Mark tasks as completed
 - ❌ Delete tasks
 - 💾 Data stored in Local Storage
 - 📱 Responsive design (Mobile + Desktop)
